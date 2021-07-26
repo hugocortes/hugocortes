@@ -11,6 +11,7 @@ I'm a web developer with 4+ years of experience, primarily focused on back-end s
 
 ### Languages and Tools
 
+![](https://img.shields.io/badge/-Go-black?style=flat&logo=go&logoColor=blue)
 ![](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=yellow)
 ![](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&logoColor=blue)
 ![](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js&logoColor=green)
